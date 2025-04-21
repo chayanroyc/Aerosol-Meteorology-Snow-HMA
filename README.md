@@ -1,22 +1,16 @@
-# HMA-Snow-Aerosol-Interactions - Auxiliary Data Repository
+# HMA-Snow-Aerosol-Interactions - Ancilliary Information
 
 This repository contains the auxiliary data associated with the preprint **"Diagnosing Aerosol-Meteorological Interactions on Snow within the Earth System: A Proof-of-Concept Study over High Mountain Asia"** (EGU 2024, DOI: [10.5194/egusphere-2024-2298](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2298/)).
 
 ## Overview
 
-The study investigates the interactions between aerosols, meteorology, and snow processes in the High Mountain Asia (HMA) region. It aims to explore aerosol-induced impacts on snow and the broader implications for regional climate and environmental health.
+This study aims to understand the complexity of Earth's climate by proposing a novel, cost-effective approach to understand the web of interactions driving climate change. We focus on how pollution and weather processes interact and drive snowmelt in Asian glaciers. Our findings reveal significant yet overlooked processes across different climate models. Our approach can help in refining the development of these models for more reliable predictions in climate-vulnerable regions.
 
-The repository contains all necessary auxiliary data used in the study, which includes the results from various simulations, observational data, and model outputs required for reproducing the findings of the paper.
+The repository contains all necessary links to the methods and datasets used in the study.
 
-## Data Description
+A schematic below depicts the overall methodology implemented in the paper.
+![image](https://github.com/user-attachments/assets/541f9255-ae88-421a-be03-572dc9f455fb)
 
-The following data is available in this repository:
 
-- **WRF-Chem Simulations**: Black carbon (BC) concentrations, aerosol species, and meteorological variables for the High Mountain Asia region.
-- **Snowmelt Model Outputs**: Simulation outputs for snowmelt processes driven by aerosol and meteorological parameters.
-- **Observational Data**: Ground-based and satellite data for aerosol and snow measurements from the study sites.
-- **Modeling Code**: Python and/or other modeling scripts used for data analysis and simulation setup.
-
-## File Structure
 
 
