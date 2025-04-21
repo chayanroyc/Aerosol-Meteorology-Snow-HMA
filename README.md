@@ -22,6 +22,10 @@ The schematic below depicts the overall methodology implemented in the paper.
 
 - **Relative Importance Analysis** : The algorithms for using this in a linear regression setting is provided in Text S1 of the Supplementary Information in a previous work here [RIA Algorithm](https://agupubs.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1029%2F2022GL099317&file=2022GL099317-sup-0001-Supporting+Information+SI-S01.pdf). A script is also provided in *./algo/RelativeImp.py*. 
 
+- **XGBoost-SHAPc** : The model setup using XGBoost and the SHAP ocntributions is provided in the supplementary of this current work. A set of instructions is provided in *./algo/XGBoost-SHAPc.md*.
+
+## Links for Network Analysis
+
 
 
 
