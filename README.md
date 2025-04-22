@@ -1,6 +1,6 @@
 # HMA-Snow-Aerosol-Interactions - Ancilliary Information
 
-This repository contains the auxiliary data associated with the preprint **"Diagnosing Aerosol-Meteorological Interactions on Snow within the Earth System: A Proof-of-Concept Study over High Mountain Asia"** (EGU 2024, DOI: [10.5194/egusphere-2024-2298](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2298/)).
+This repository contains the auxiliary information associated with the preprint **"Diagnosing Aerosol-Meteorological Interactions on Snow within the Earth System: A Proof-of-Concept Study over High Mountain Asia"** (EGU 2024, DOI: [10.5194/egusphere-2024-2298](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-2298/)).
 
 ## Overview
 
