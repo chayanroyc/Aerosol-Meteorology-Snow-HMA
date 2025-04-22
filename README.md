@@ -9,7 +9,9 @@ This study aims to understand the complexity of Earth's climate by proposing a n
 The repository contains all necessary links to the methods and datasets used in the study.
 
 The schematic below depicts the overall methodology implemented in the paper.
+<p align="center">
 <img width="709" alt="image" src="https://github.com/user-attachments/assets/9ea6cc48-a65c-4b60-9450-6774aa883181" />
+</p>
 
 ## Links for the Reanalysis datasets:
 
