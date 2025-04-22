@@ -26,6 +26,19 @@ The schematic below depicts the overall methodology implemented in the paper.
 
 ## Links for Network Analysis
 
+The network‑theory visualisation of correlation / importance matrices follows from [Inglis et al., 2022](https://doi.org/10.1080/10618600.2021.2007935). 
+The procedure consists of two main stages:
 
+1. **Build an importance matrix**  
+   * Structure it like a correlation matrix: rows and columns are the predictor features.  
+   * Populate the cells with either  
+     * **RIA**-based sensitivities of product terms, or  
+     * **SHAPc**-based interaction sensitivities (feature‑interaction contributions).
+
+2. **Convert the matrix to a network graph**  
+   * **Nodes** → predictor features.  
+   * **Edge weights** → corresponding importance values from the matrix.
+
+The resulting graph can be created and analysed with Python’s `networkx` library.
 
 
